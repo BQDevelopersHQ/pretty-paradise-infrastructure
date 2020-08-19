@@ -1,0 +1,1 @@
+create database pretty_paradise.pretty_paradise;
