@@ -1,0 +1,9 @@
+server:
+  port: 8086
+spring:
+  application:
+    name: pretty-paradise-zuul-api-proxy
+eureka:
+  instance:
+    instance-id: ${spring.application.name}
+
